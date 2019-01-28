@@ -3,6 +3,7 @@
   "version": "5.9.1",
   "description": "Responsive Angular 2 / 4 image gallery plugin",
   "scripts": {
+    "prepare": "npm run build",
     "build": "gulp build",
     "build:watch": "gulp",
     "docs": "npm run docs:build",

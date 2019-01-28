@@ -27,6 +27,16 @@
         background-repeat: no-repeat;
         text-decoration: none;
     }
+
+    .ngx-gallery-thumbnail-label {
+        background: rgba(1,1,1,0.8);
+        color: #fff;
+        text-align: center;
+        bottom: 0px;
+        position: absolute;
+        width: 100%;
+        padding: 3px 0;
+    }
 }
 
 .ngx-gallery-thumbnail-size-cover .ngx-gallery-thumbnails .ngx-gallery-thumbnail {
